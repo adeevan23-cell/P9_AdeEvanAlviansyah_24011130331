@@ -2,8 +2,8 @@
 
 - **Nama:** Ade Evan Alviansyah
 - **NIM:** 24011130331
-- **GitHub:** [adeevan2024-m-design](https://github.com/adeevan2024-m-design)
-- **Repository:** [P9_24011130331_AdeEvanAlviansyah](https://github.com/adeevan2024-m-design/P9_24011130331_AdeEvanAlviansyah)
+- **GitHub:** [adeevan23-cell](https://github.com/adeevan23-cell)
+- **Repository:** [P9_AdeEvanAlviansyah_24011130331](https://github.com/adeevan23-cell/P9_AdeEvanAlviansyah_24011130331)
 
 # Toko App
 
